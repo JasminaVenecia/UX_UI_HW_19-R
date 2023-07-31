@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+}
+.hero {
+    display: inline-block;
+    padding: 2%;
+    justify-content: center;
+    
+}
+.logo{
+    font-family: cheee Demo;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    color: skyblue;
+}
+
+.nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.second-header{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: Irregardless Demo;
+
+}
+footer{
+    align-content: center;
+    padding: 5%;
+}
+p{
+    font-family: cheee Demo;
+    color: white;
+    background-color: black;
+    align-items: center;
+    font-size: xx-large;
+}
+.divider {
+    border: 1px solid black;
+    margin: 20px 0;
+}
+h6{
+    font-family: Irregardless Demo;
+    font-size: 40px;
+}
